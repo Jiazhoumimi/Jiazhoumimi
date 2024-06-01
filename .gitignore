@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# SSL Certificates
+sslcert/
+*.key
+*.crt
+
+# Environment Variables
+.env
